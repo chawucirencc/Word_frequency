@@ -47,4 +47,6 @@ def main():
     draw_photo(result)
 
 
-main()
+if __name__ == "__main__":
+    main()
+    
